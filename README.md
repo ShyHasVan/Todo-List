@@ -49,3 +49,9 @@ To delete a task, click the "Delete" button.
 
 ### Contributing
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to create a pull request.
+
+### Preview
+
+
+### Notes
+Remember to replace your-username with your actual GitHub username. This README provides a basic guide for users to clone, install dependencies, run the app, and interact with it. You can customize it further based on your app's specific features and user needs. Also remember to use your own connection link to MongoDB
