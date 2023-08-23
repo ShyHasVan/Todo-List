@@ -51,7 +51,7 @@ To delete a task, click the "Delete" button.
 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to create a pull request.
 
 ### Preview
-
+![Screenshot 2023-08-23 165435](https://github.com/ShyHasVan/Todo-List/assets/142844565/f42841ae-eb20-46a5-8542-c2d2e3600bd3)
 
 ### Notes
 Remember to replace your-username with your actual GitHub username. This README provides a basic guide for users to clone, install dependencies, run the app, and interact with it. You can customize it further based on your app's specific features and user needs. Also remember to use your own connection link to MongoDB
