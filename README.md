@@ -32,7 +32,7 @@ npm: The Node.js package manager that is used to install and manage project depe
 
 #### Start the development server:
 npm start
-The app will run at http://localhost:3000.
+The app will run at http://localhost:3000. Before this, you should have your database running in the backend with "node index.js"
 
 ### Usage
 Open your browser and navigate to http://localhost:3000.
