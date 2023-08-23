@@ -4,7 +4,7 @@ const cors = require('cors'); // Import the cors package
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://shivr2705:ofelCmoCFbavXbho@todo.3bigooe.mongodb.net/todo_list', {
+mongoose.connect('ADD_YOUR_OWN_CONNECTION_URL', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
